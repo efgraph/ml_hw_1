@@ -1,0 +1,15 @@
+{
+  "name": "Hyundai i10 Era",
+  "year": 2008,
+  "selling_price": 130000,
+  "km_driven": 30000,
+  "fuel": "Petrol",
+  "seller_type": "Individual",
+  "transmission": "Manual",
+  "owner": "Second Owner",
+  "mileage": "19.81 kmpl",
+  "engine": "1086 CC",
+  "max_power": "68.05 bhp",
+  "torque": "99.04Nm@ 4500rpm",
+  "seats": 5.0
+}

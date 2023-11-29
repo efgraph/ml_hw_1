@@ -1,0 +1,11 @@
+*.DS_Store
+.idea/
+*.ipynb_checkpoints/
+.env
+api_service/venv
+*venv/
+data
+*/.pytest_cache/
+__pycache__/
+ *.pyc
+*log/
